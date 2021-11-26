@@ -1,0 +1,10 @@
+C:\Users\54926\source\repos\TemplatePattern\TemplatePattern\bin\Debug\TemplatePattern.exe.config
+C:\Users\54926\source\repos\TemplatePattern\TemplatePattern\bin\Debug\TemplatePattern.exe
+C:\Users\54926\source\repos\TemplatePattern\TemplatePattern\bin\Debug\TemplatePattern.pdb
+C:\Users\54926\source\repos\TemplatePattern\TemplatePattern\obj\Debug\TemplatePattern.csproj.AssemblyReference.cache
+C:\Users\54926\source\repos\TemplatePattern\TemplatePattern\obj\Debug\TemplatePattern.Form1.resources
+C:\Users\54926\source\repos\TemplatePattern\TemplatePattern\obj\Debug\TemplatePattern.Properties.Resources.resources
+C:\Users\54926\source\repos\TemplatePattern\TemplatePattern\obj\Debug\TemplatePattern.csproj.GenerateResource.cache
+C:\Users\54926\source\repos\TemplatePattern\TemplatePattern\obj\Debug\TemplatePattern.csproj.CoreCompileInputs.cache
+C:\Users\54926\source\repos\TemplatePattern\TemplatePattern\obj\Debug\TemplatePattern.exe
+C:\Users\54926\source\repos\TemplatePattern\TemplatePattern\obj\Debug\TemplatePattern.pdb
